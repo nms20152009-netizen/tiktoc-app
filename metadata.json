@@ -1,0 +1,8 @@
+{
+  "name": "Tiktoc",
+  "description": "Una herramienta de creación de contenido inteligente y eficiente para creadores emergentes, que fusiona las mejores funcionalidades de publicación de video corto y gestión de comunidades en una única experiencia móvil.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
